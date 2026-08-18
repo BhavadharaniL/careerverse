@@ -1,0 +1,6 @@
+skilltracker/**/.env
+skilltracker/**/node_modules/
+skilltracker/**/.expo/
+skilltracker/**/android/.gradle/
+skilltracker/**/android/build/
+skilltracker/**/ios/Pods/
